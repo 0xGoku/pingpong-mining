@@ -8,6 +8,7 @@
 >
 > The stronger your server is, the more you will farm
 
+
 <h1 align="center"> PingPong x MorphL2 Campaign </h1>
 
 > Before we start the mining node, there is now a live Ping Pong x MorphL2 campaign that you can participate-in just by claiming and staking tokens without running a node
